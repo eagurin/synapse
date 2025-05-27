@@ -1,6 +1,6 @@
 # 🧠 Synapse
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
   <img src="https://img.shields.io/badge/OpenAI-Compatible-green.svg" alt="OpenAI Compatible">
@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/Docker-ready-blue.svg" alt="Docker Ready">
 </p>
 
-<p align="center">
+<p align="left">
   <b>Self-hosted AI backend for Cursor, Cline, Continue & other AI-powered IDEs</b><br>
   <i>Production-ready platform with adaptive memory, unified LLM access, and extensible tool ecosystem</i>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="#-key-features">Features</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-architecture">Architecture</a> •
